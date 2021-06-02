@@ -1,0 +1,16 @@
+.line{
+    height: 5px;
+    width: 300px;
+    background-color: yellow;
+}
+img{
+    border: 2px solid;
+    border-color: orange;
+}
+p{
+    max-width: 200px;
+    text-align: justify;
+}
+body{
+    background-color: orangered;
+}
